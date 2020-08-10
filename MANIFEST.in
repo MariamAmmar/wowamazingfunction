@@ -1,0 +1,3 @@
+graft wowamazingfunction
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  wowamazingfunction/jupy *
